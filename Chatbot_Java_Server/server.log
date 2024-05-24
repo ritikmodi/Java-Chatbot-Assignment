@@ -1,0 +1,232 @@
+Server is running and waiting for connections..
+Client is shutting down
+Server is shutting down LogEvent
+Server is shutting down LogEvent
+Server is running and waiting for connections..
+New client connected: Socket[addr=/127.0.0.1,port=53014,localport=1234]
+User client1 connected
+Client is shutting down
+Client is shutting down
+New client connected: Socket[addr=/127.0.0.1,port=53027,localport=1234]
+User aa connected
+Server is shutting down LogEvent
+Server is shutting down LogEvent
+Client Handler error : Socket closed
+Client is shutting down
+Server is running and waiting for connections..
+New client connected: Socket[addr=/127.0.0.1,port=53304,localport=1234]
+User client1 connected
+[client1]: hello all
+Client is shutting down
+Client is shutting down
+New client connected: Socket[addr=/127.0.0.1,port=56001,localport=1234]
+User abc connected
+Server is shutting down LogEvent
+Server is shutting down LogEvent
+Client Handler error : Socket closed
+Client is shutting down
+Server is running and waiting for connections..
+New client connected: Socket[addr=/127.0.0.1,port=56027,localport=1234]
+User client1 connected
+New client connected: Socket[addr=/127.0.0.1,port=56042,localport=1234]
+User client2 connected
+[client1]: hello all
+Client is shutting down
+Client is shutting down
+Server is shutting down LogEvent
+Server is shutting down LogEvent
+Server is running and waiting for connections..
+New client connected: Socket[addr=/127.0.0.1,port=61175,localport=1234]
+User client1 connected
+New client connected: Socket[addr=/127.0.0.1,port=61181,localport=1234]
+User client2 connected
+[client1]: hello all
+Client is shutting down
+Server is shutting down LogEvent
+Server is shutting down LogEvent
+Client Handler error : Socket closed
+Server is running and waiting for connections..
+New client connected: Socket[addr=/127.0.0.1,port=61252,localport=1234]
+User client1 connected
+[client1]: allllllll
+New client connected: Socket[addr=/127.0.0.1,port=61264,localport=1234]
+User client2 connected
+[client1]: lalala
+Client is shutting down
+Server is shutting down LogEvent
+Server is running and waiting for connections..
+New client connected: Socket[addr=/127.0.0.1,port=60751,localport=1234]
+User abc connected
+[abc]: hello all
+Client is shutting down
+Server is shutting down LogEvent
+Server is running and waiting for connections..
+New client connected: Socket[addr=/127.0.0.1,port=60801,localport=1234]
+User clientAAAAA connected
+New client connected: Socket[addr=/127.0.0.1,port=60810,localport=1234]
+User clientBBBBB connected
+[clientAAAAA]: zzzzzzzzzzzzzzzzzzzzzzzzzzzz
+Client is shutting down
+New client connected: Socket[addr=/127.0.0.1,port=60831,localport=1234]
+User clientCCCCC connected
+Server is shutting down LogEvent
+Client Handler error : Socket closed
+Server is shutting down LogEvent
+Client is shutting down
+Server is running and waiting for connections..
+New client connected: Socket[addr=/127.0.0.1,port=60894,localport=1234]
+User abc connected
+Server is shutting down LogEvent
+Client Handler error : Socket closed
+Server is shutting down LogEvent
+Server is running and waiting for connections..
+Client is shutting down
+New client connected: Socket[addr=/127.0.0.1,port=60961,localport=1234]
+User aaa connected
+[bbb] Not Found
+Server is shutting down LogEvent
+Client Handler error : Socket closed
+Server is shutting down LogEvent
+Client is shutting down
+Server is running and waiting for connections..
+New client connected: Socket[addr=/127.0.0.1,port=49302,localport=1234]
+User abc connected
+New client connected: Socket[addr=/127.0.0.1,port=52384,localport=1234]
+User def connected
+[abc]: hello all
+[def] to [abc] : hwo r u
+Client is shutting down
+New client connected: Socket[addr=/127.0.0.1,port=52402,localport=1234]
+User ddd connected
+Server is shutting down LogEvent
+Client Handler error : Socket closed
+Client Handler error : Socket closed
+Client is shutting down
+Server is running and waiting for connections..
+New client connected: Socket[addr=/127.0.0.1,port=52438,localport=1234]
+User aaa connected
+New client connected: Socket[addr=/127.0.0.1,port=52446,localport=1234]
+User bbb connected
+[aaa]: hellooooooooo
+[bbb] to [aaa] : yeahhhhhhhh
+Client is shutting down
+New client connected: Socket[addr=/127.0.0.1,port=53340,localport=1234]
+User ggg connected
+Server is shutting down LogEvent
+Server is shutting down LogEvent
+Client Handler error : Socket closed
+Client is shutting down
+Server is running and waiting for connections..
+New client connected: Socket[addr=/127.0.0.1,port=63792,localport=1234]
+User aaa connected
+New client connected: Socket[addr=/127.0.0.1,port=49197,localport=1234]
+User bbb connected
+Client is shutting down
+[bbb]: hiiiiiiii
+Server is shutting down LogEvent
+Client Handler error : Socket closed
+Server is shutting down LogEvent
+Server is running and waiting for connections..
+New client connected: Socket[addr=/127.0.0.1,port=52664,localport=1234]
+User aaa connected
+[aaa]: hello all
+Receiver [bbb] Not Found
+[aaa]: qqqqqqqqqqqqqq
+Receiver [rrr] Not Found
+New client connected: Socket[addr=/127.0.0.1,port=55987,localport=1234]
+User www connected
+New client connected: Socket[addr=/127.0.0.1,port=56008,localport=1234]
+User fff connected
+Server is shutting down LogEvent
+Server is shutting down LogEvent
+Client Handler error : Socket closed
+Server is running and waiting for connections..
+New client connected: Socket[addr=/127.0.0.1,port=64354,localport=1234]
+New client connected: Socket[addr=/127.0.0.1,port=49950,localport=1234]
+User aaa connected
+User bbb connected
+New client connected: Socket[addr=/127.0.0.1,port=49965,localport=1234]
+User ccc connected
+[ccc]: hello alllllllll
+[bbb] to [ccc] : hey ccc
+New client connected: Socket[addr=/127.0.0.1,port=50087,localport=1234]
+User ddd connected
+Client Handler error : Connection reset
+Server is shutting down LogEvent
+Server is shutting down LogEvent
+Client Handler error : Socket closed
+Server is running and waiting for connections..
+New client connected: Socket[addr=/127.0.0.1,port=59782,localport=1234]
+User clear connected
+Server is shutting down LogEvent
+Server is shutting down LogEvent
+Server is running and waiting for connections..
+New client connected: Socket[addr=/127.0.0.1,port=59797,localport=1234]
+New client connected: Socket[addr=/127.0.0.1,port=59800,localport=1234]
+User aaa connected
+User bbb connected
+New client connected: Socket[addr=/127.0.0.1,port=59812,localport=1234]
+User ccc connected
+New client connected: Socket[addr=/127.0.0.1,port=59815,localport=1234]
+User ddd connected
+[bbb]: heyyyyyyyyy
+Server is shutting down LogEvent
+Server is shutting down LogEvent
+Server is running and waiting for connections..
+New client connected: Socket[addr=/127.0.0.1,port=59992,localport=1234]
+User aaa connected
+New client connected: Socket[addr=/127.0.0.1,port=59996,localport=1234]
+User bbb connected
+New client connected: Socket[addr=/127.0.0.1,port=60002,localport=1234]
+User ddd connected
+Client Handler error : Connection reset
+Server is shutting down LogEvent
+Server is running and waiting for connections..
+New client connected: Socket[addr=/127.0.0.1,port=60029,localport=1234]
+User aaa connected
+New client connected: Socket[addr=/127.0.0.1,port=60034,localport=1234]
+User bbb connected
+New client connected: Socket[addr=/127.0.0.1,port=60038,localport=1234]
+User ccc connected
+[ccc]: heyyyyyyyyy
+[bbb] to [aaa] : pepepeep
+New client connected: Socket[addr=/127.0.0.1,port=60050,localport=1234]
+User ddd connected
+New client connected: Socket[addr=/127.0.0.1,port=60101,localport=1234]
+User eee connected
+Server is shutting down LogEvent
+Server is shutting down LogEvent
+Client Handler error : Socket closed
+Client Handler error : Socket closed
+Server is running and waiting for connections..
+New client connected: Socket[addr=/127.0.0.1,port=60126,localport=1234]
+User aaa connected
+Server is shutting down LogEvent
+Client Handler error : Socket closed
+Server is shutting down LogEvent
+Server is running and waiting for connections..
+New client connected: Socket[addr=/127.0.0.1,port=60135,localport=1234]
+User aaa connected
+New client connected: Socket[addr=/127.0.0.1,port=60140,localport=1234]
+User bbb connected
+Server is shutting down LogEvent
+Client Handler error : Socket closed
+Server is shutting down LogEvent
+Client Handler error : Socket closed
+Server is running and waiting for connections..
+New client connected: Socket[addr=/127.0.0.1,port=60194,localport=1234]
+User aaa connected
+Server is shutting down LogEvent
+Client Handler error : Socket closed
+Server is shutting down LogEvent
+Server is running and waiting for connections..
+New client connected: Socket[addr=/127.0.0.1,port=60225,localport=1234]
+User aaa connected
+Server is shutting down LogEvent
+Client Handler error : Socket closed
+Server is running and waiting for connections..
+New client connected: Socket[addr=/127.0.0.1,port=52249,localport=1234]
+User aaa connected
+Server is shutting down LogEvent
+Server is shutting down LogEvent
+Client Handler error : Socket closed
